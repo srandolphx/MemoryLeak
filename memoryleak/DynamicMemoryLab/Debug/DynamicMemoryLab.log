@@ -1,0 +1,17 @@
+﻿  DynamicMemoryLab.cpp
+C:\C#Projects\Full Sail Class Work\C++ projects\Systems Prog\memoryleak\DynamicMemoryLab\Region.h(28,16): warning C4129: 'R': unrecognized character escape sequence
+C:\C#Projects\Full Sail Class Work\C++ projects\Systems Prog\memoryleak\DynamicMemoryLab\Region.h(18,21): warning C4018: '<': signed/unsigned mismatch
+C:\C#Projects\Full Sail Class Work\C++ projects\Systems Prog\memoryleak\DynamicMemoryLab\Region.h(25,21): warning C4018: '<': signed/unsigned mismatch
+C:\C#Projects\Full Sail Class Work\C++ projects\Systems Prog\memoryleak\DynamicMemoryLab\Region.h(29,12): warning C4244: 'initializing': conversion from '__int64' to 'long', possible loss of data
+C:\C#Projects\Full Sail Class Work\C++ projects\Systems Prog\memoryleak\DynamicMemoryLab\Corporate.h(17,21): warning C4018: '<': signed/unsigned mismatch
+C:\C#Projects\Full Sail Class Work\C++ projects\Systems Prog\memoryleak\DynamicMemoryLab\Corporate.h(24,21): warning C4018: '<': signed/unsigned mismatch
+C:\C#Projects\Full Sail Class Work\C++ projects\Systems Prog\memoryleak\DynamicMemoryLab\Corporate.h(27,13): warning C4244: 'initializing': conversion from '__int64' to 'float', possible loss of data
+C:\C#Projects\Full Sail Class Work\C++ projects\Systems Prog\memoryleak\DynamicMemoryLab\Corporate.h(29,10): warning C4244: 'return': conversion from 'float' to '__int64', possible loss of data
+  Register.cpp
+  Store.cpp
+C:\C#Projects\Full Sail Class Work\C++ projects\Systems Prog\memoryleak\DynamicMemoryLab\Store.cpp(27,20): warning C4018: '<': signed/unsigned mismatch
+C:\C#Projects\Full Sail Class Work\C++ projects\Systems Prog\memoryleak\DynamicMemoryLab\Store.cpp(36,20): warning C4018: '<': signed/unsigned mismatch
+C:\C#Projects\Full Sail Class Work\C++ projects\Systems Prog\memoryleak\DynamicMemoryLab\Store.cpp(43,11): warning C4244: 'initializing': conversion from '__int64' to 'long', possible loss of data
+  StringHelpers.cpp
+  Generating Code...
+  DynamicMemoryLab.vcxproj -> C:\C#Projects\Full Sail Class Work\C++ projects\Systems Prog\memoryleak\Debug\DynamicMemoryLab.exe

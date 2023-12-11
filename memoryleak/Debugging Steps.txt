@@ -1,0 +1,17 @@
+A few pointers of my thought process
+
+. if there is a "new" there must be a "delete" before return.
+
+. if there is constuctor with a "new" there must be a deconsructor with a "delete".
+
+. if the base class has a deconstructor the sister class needs a deconstuctor.
+
+A couple issues i ran into
+
+. deleting a "new" when it wasnt needed sometimes stopped my program from running.
+
+. was hard to tell how many memory leaks exsisted from one "new".
+
+What eneded up working
+
+. Going back and running the program after each delete. 
